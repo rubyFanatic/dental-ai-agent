@@ -1,0 +1,32 @@
+# Core
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-dotenv==1.0.1
+pydantic==2.10.4
+pydantic-settings==2.7.1
+httpx==0.28.1
+
+# LangGraph + LangChain (Podium's orchestration stack)
+langgraph==0.2.60
+langchain==0.3.14
+langchain-openai==0.2.14
+langchain-community==0.3.14
+
+# OpenAI (Podium uses GPT-5.1, we use GPT-4o)
+openai==1.58.1
+
+# Pinecone (per-practice knowledge base)
+pinecone-client==5.0.1
+
+# LangSmith (observability + evaluation)
+langsmith==0.2.10
+
+# Twilio (SMS channel)
+twilio==9.4.0
+
+# Database (conversation persistence)
+psycopg2-binary==2.9.10
+langgraph-checkpoint-postgres==2.0.11
+
+# Utilities
+rich==13.9.4       # Pretty CLI output for testing

@@ -1,0 +1,78 @@
+{
+  "practice_id": "apex-dental-01",
+  "practice_name": "Apex Family Dental",
+  "documents": [
+    {
+      "id": "svc-cleaning",
+      "category": "service",
+      "service": "General Cleaning",
+      "content": "General Cleaning at Apex Family Dental: A thorough professional cleaning to remove plaque and tartar buildup, followed by polishing. Duration: 60 minutes. No special preparation needed — just brush and floss normally before your appointment. Recommended every 6 months for optimal oral health."
+    },
+    {
+      "id": "svc-exam",
+      "category": "service",
+      "service": "Dental Exam",
+      "content": "Comprehensive Dental Exam: A full examination of your teeth, gums, and oral health. Includes visual inspection, periodontal assessment, and oral cancer screening. Duration: 45 minutes. Bring your insurance card and a list of any medications. New patients should start with a dental exam."
+    },
+    {
+      "id": "svc-whitening",
+      "category": "service",
+      "service": "Teeth Whitening",
+      "content": "Professional Teeth Whitening: In-office whitening treatment for dramatically brighter teeth in one visit. Duration: 75 minutes. We recommend having a cleaning first for the best results. Teeth typically become 4-8 shades brighter. Sensitivity is normal for 24-48 hours after treatment."
+    },
+    {
+      "id": "svc-filling",
+      "category": "service",
+      "service": "Fillings",
+      "content": "Dental Fillings: We offer tooth-colored composite fillings that blend naturally with your teeth. Duration: 60 minutes. The area will be numbed for your comfort. You can eat normally after the numbness wears off, usually within 2-3 hours."
+    },
+    {
+      "id": "svc-crown",
+      "category": "service",
+      "service": "Crown",
+      "content": "Dental Crown: A custom-made cap that covers and protects a damaged tooth. Duration: 90 minutes for the first visit (impression and temporary crown). A second visit is needed to place the permanent crown. We use high-quality porcelain crowns that match your natural teeth."
+    },
+    {
+      "id": "svc-rootcanal",
+      "category": "service",
+      "service": "Root Canal",
+      "content": "Root Canal Treatment: A procedure to save a tooth that is badly decayed or infected. Duration: 120 minutes. The procedure is done under local anesthesia and is much more comfortable than most people expect. You may need over-the-counter pain medication for 1-2 days after."
+    },
+    {
+      "id": "svc-emergency",
+      "category": "service",
+      "service": "Emergency Visit",
+      "content": "Emergency Dental Visit: For severe tooth pain, broken teeth, knocked-out teeth, or dental trauma. Duration: 30 minutes initial assessment. We offer same-day emergency appointments. Call us immediately if you're experiencing a dental emergency."
+    },
+    {
+      "id": "svc-invisalign",
+      "category": "service",
+      "service": "Invisalign Consultation",
+      "content": "Invisalign Consultation: A complimentary consultation to discuss teeth straightening with clear aligners. Duration: 45 minutes. We'll take digital scans and discuss your treatment plan and timeline. Invisalign is a great option for both teens and adults."
+    },
+    {
+      "id": "faq-insurance",
+      "category": "faq",
+      "service": null,
+      "content": "Insurance at Apex Family Dental: We accept Delta Dental, Cigna, MetLife, Aetna, Blue Cross Blue Shield, United Healthcare, and Guardian. We're happy to help verify your benefits before your appointment. If we don't accept your plan, we offer affordable self-pay options."
+    },
+    {
+      "id": "faq-new-patient",
+      "category": "faq",
+      "service": null,
+      "content": "New Patient Information: Welcome to Apex Family Dental! New patients should schedule a Dental Exam as their first appointment. Please arrive 15 minutes early to complete paperwork. Bring your insurance card, photo ID, and a list of medications. We'll take any necessary X-rays during your first visit."
+    },
+    {
+      "id": "faq-cancellation",
+      "category": "faq",
+      "service": null,
+      "content": "Cancellation Policy: We require at least 24 hours notice for cancellations or rescheduling. Same-day cancellations may be subject to a fee. We understand emergencies happen — please call us as soon as possible if you need to change your appointment."
+    },
+    {
+      "id": "faq-payment",
+      "category": "faq",
+      "service": null,
+      "content": "Payment Options: We accept all major credit cards, cash, and personal checks. For patients without insurance, we offer a 10% courtesy discount for payment at the time of service. We also partner with CareCredit for flexible financing options."
+    }
+  ]
+}
